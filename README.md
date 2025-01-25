@@ -1,8 +1,8 @@
-[![Ubuntu](https://github.com/sytranvn/linapp/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/sytranvn/linapp/actions/workflows/ubuntu.yml)
-[![MacOS](https://github.com/sytranvn/linapp/actions/workflows/macos.yml/badge.svg)](https://github.com/sytranvn/linapp/actions/workflows/macos.yml)
-[![Windows](https://github.com/sytranvn/linapp/actions/workflows/windows.yml/badge.svg)](https://github.com/sytranvn/linapp/actions/workflows/windows.yml)
-[![codecov](https://codecov.io/gh/sytranvn/linapp/branch/master/graph/badge.svg)](https://codecov.io/gh/sytranvn/linapp)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sytranvn/linapp)](https://github.com/sytranvn/sytranvn/linapp)
+[![Ubuntu](https://github.com/sytranvn/leetcode/actions/workflows/ubuntu.yml/badge.svg)](https://github.com/sytranvn/leetcode/actions/workflows/ubuntu.yml)
+[![MacOS](https://github.com/sytranvn/leetcode/actions/workflows/macos.yml/badge.svg)](https://github.com/sytranvn/leetcode/actions/workflows/macos.yml)
+[![Windows](https://github.com/sytranvn/leetcode/actions/workflows/windows.yml/badge.svg)](https://github.com/sytranvn/leetcode/actions/workflows/windows.yml)
+[![codecov](https://codecov.io/gh/sytranvn/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/sytranvn/leetcode)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/sytranvn/leetcode)](https://github.com/sytranvn/sytranvn/leetcode)
 ## Check out original modern-cpp-template
 
 This is dirived template for my personal use. Check out the [original template](https://github.com/filipdutescu/modern-cpp-template) for more.
@@ -68,15 +68,15 @@ template *as-is*, meaning using the versions recommended here, then you will nee
 ### Installing
 
 It is fairly easy to install the project, all you need to do is clone if from
-[GitHub](https://github.com/sytranvn/linapp) or
-[generate a new repository from it](https://github.com/sytranvn/linapp/generate)
+[GitHub](https://github.com/sytranvn/leetcode) or
+[generate a new repository from it](https://github.com/sytranvn/leetcode/generate)
 (also on **GitHub**).
 
 If you wish to clone the repository, rather than generate from it, you simply need
 to run:
 
 ```bash
-git clone https://github.com/sytranvn/linapp/
+git clone https://github.com/sytranvn/leetcode/
 ```
 
 You need to setup configurations and sample code to match you project name.
@@ -163,7 +163,7 @@ become a contributor and the process for submitting pull requests to us.
 
 This project makes use of [SemVer](http://semver.org/) for versioning. A list of
 existing versions can be found in the
-[project's releases](https://github.com/sytranvn/linapp/releases).
+[project's releases](https://github.com/sytranvn/leetcode/releases).
 
 ## Authors
 

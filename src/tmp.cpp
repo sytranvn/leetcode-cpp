@@ -1,3 +1,6 @@
-#include "linapp/tmp.hpp"
+#include "leetcode/leetcode.hpp"
 
-int tmp::add(int a, int b) { return a + b; }
+int add(int a, int b)
+{
+  return a + b;
+}

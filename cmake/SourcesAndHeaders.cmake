@@ -3,12 +3,12 @@ set(sources
 )
 
 set(exe_sources
-		src/main.cpp
-		${sources}
+    src/main.cpp
+    ${sources}
 )
 
 set(headers
-    include/linapp/tmp.hpp
+    include/leetcode/tmp.hpp
 )
 
 set(test_sources

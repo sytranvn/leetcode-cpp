@@ -1,10 +1,12 @@
-#include "leetcode/tmp.hpp"
+#include "leetcode/two_sum.hpp"
 
 #include <gtest/gtest.h>
 
 TEST(TmpAddTest, CheckValues)
 {
-  ASSERT_EQ(add(1, 2), 3);
+  vector<int> nums {2,7,11,15};
+  int target = 9;
+  ASSERT_EQ(Solution::twoSum(&nums, target), {0, 1});
   EXPECT_TRUE(true);
 }
 
